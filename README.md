@@ -17,4 +17,4 @@ Team members:
 Project description  
 
 Artifacts:   
-* ![Trello](https://trello.com/b/F3zNZruQ)   
+* [Trello](https://trello.com/b/F3zNZruQ)   
