@@ -1,4 +1,6 @@
-# Black-Bug
+!+: # BLACK-BUG
+* * *
+Team members:   
 
 1.Telefus Ilya (Product Owner)   
 2.Zgurovskiy Yaroslav (ScrumMaster)   
