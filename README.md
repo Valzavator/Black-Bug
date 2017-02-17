@@ -6,7 +6,7 @@ Team members:
 2.Zgurovskiy Yaroslav (ScrumMaster)   
 3.Svynarchuk Maksim (Team Lead)   
 4.Scherbina Vadim (QA)   
-5.Horzhyi Ihor   
+5.Horzhyi Igor   
 6.Poyda Andrian   
 7.Schupacovskyi Yehor   
 
