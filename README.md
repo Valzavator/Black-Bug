@@ -7,7 +7,7 @@ Team members:
 3.Svynarchuk Maksim (Team Lead)   
 4.Scherbina Vadim (QA)   
 5.Horzhyi Ihor   
-6.Poida Andrian   
+6.Poyda Andrian   
 7.Schupacovskyi Yehor   
 
 ![TeamLogo](https://github.com/Admiral2303/Black-Bug/blob/master/logo000.png)
