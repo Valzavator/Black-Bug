@@ -1,4 +1,4 @@
-!+: # BLACK-BUG
+# BLACK-BUG
 * * *
 Team members:   
 
@@ -13,7 +13,7 @@ Team members:
 ![TeamLogo](https://github.com/Admiral2303/Black-Bug/blob/master/logo000.png)
 
 # 3D Scanner
-
+* * *
 Project description  
 
 Artifacts:   
