@@ -18,3 +18,4 @@ Project description
 
 Artifacts:   
 * [Trello](https://trello.com/b/F3zNZruQ)    
+* [Google Slides](http://bit.ly/2lVrU3Q)
