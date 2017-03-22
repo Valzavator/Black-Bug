@@ -22,3 +22,4 @@ Artifacts:
 * [Documentation](http://bit.ly/2kQ0Qha)
 * [Backlog](http://bit.ly/2nkHjvf)
 * [Meeting results](https://docs.google.com/document/d/1kmjobeilXp_ZA3lZIO_0rtM-2dQugZglF6AtuJD-hkA/edit)
+* [Burndown chart](https://docs.google.com/spreadsheets/d/1LUHoXHVKs5BOQdXvgvltlPh0r4Mgdk2N_VevaNBWwcw/edit#gid=0)
