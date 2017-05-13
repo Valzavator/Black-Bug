@@ -28,7 +28,9 @@ Artifacts:
 <br/>
 
 <h4>Підключення мотора до Arduino UNO</h4>
- *[Steper motor](http://arduino-diy.com/arduino-drayver-shagovogo-dvigatelya-i-dvigatelya-postoyannogo-toka-L298N)
+
+* [Steper motor](http://arduino-diy.com/arduino-drayver-shagovogo-dvigatelya-i-dvigatelya-postoyannogo-toka-L298N)
+
  Для підключення Степер мотора необхідно: <br />
  
  
