@@ -75,7 +75,8 @@ Artifacts:
   3) Підключити камеру і Arduino Uno до компютера;<br/> 
   4) Після встановлення потрібно вибрати зліва програму Fabscan; <br/> 
   5) В Fabscan вибрати (Camera) і вибрати свою камеру, потім вибрати (SerialPort) і вибрати порт;<br/> 
-  6) В налаштуваннях нажати Detect laser і вибрати Fetch frame, налаштувати, щоб центр платформи проходив по жовтій лінії, а синя  лінія збігалася з краєм платформи <a href=http://hci.rwth-aachen.de/img/wiki_up/calib.png>Зображення</a>;  <br/> 
+  6) В налаштуваннях нажати Detect laser і вибрати Fetch frame, налаштувати, щоб центр платформи проходив по жовтій лінії, а синя  лінія збігалася з краєм платформи;  <br/> 
+![Camera](https://github.com/Valzavator/Black-Bug/blob/master/pictures/6.jpg)
  
  <h4>Створення 3D моделі в Fabscan</h4>
   1) Нажимаємо Start Scan; <br/> 
