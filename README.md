@@ -38,13 +38,14 @@ Artifacts:
   4) Зелений провід мотора з'єднати з гніздом (OUT 3) на драйвері <br />
  
  Для підключення драйвера до плати Arduino UNO потрібно:<br />
-  1) Пін (IN1) на драйвері з піном (8)(Digital) на платі Arduino UNO
-  2) Пін (IN2) на драйвері з піном (9)(Digital) на платі Arduino UNO
-  3) Пін (IN3) на драйвері з піном (10)(Digital) на платі Arduino UNO
-  4) Пін (IN4) на драйвері з піном (11)(Digital) на платі Arduino UNO
-  5) Гніздо (+5V) на драйвері з піном (5V)(Power) на платі Arduino UNO
-  6) Гніздо (+12V) на драйвері з піном (Vin)(Power) на платі Arduino UNO
-  7) Гніздо (GND) на драйвері з піном (GND)(Digital) на платі Arduino UNO
+ 
+  1) Пін (IN1) на драйвері з піном (8)(Digital) на платі Arduino UNO<br />
+  2) Пін (IN2) на драйвері з піном (9)(Digital) на платі Arduino UNO<br />
+  3) Пін (IN3) на драйвері з піном (10)(Digital) на платі Arduino UNO<br />
+  4) Пін (IN4) на драйвері з піном (11)(Digital) на платі Arduino UNO<br />
+  5) Гніздо (+5V) на драйвері з піном (5V)(Power) на платі Arduino UNO<br />
+  6) Гніздо (+12V) на драйвері з піном (Vin)(Power) на платі Arduino UNO<br />
+  7) Гніздо (GND) на драйвері з піном (GND)(Digital) на платі Arduino UNO<br />
  
  <h4>Підключення лазера до Arduino UNO</h4>
  
