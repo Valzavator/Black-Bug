@@ -40,7 +40,7 @@ Artifacts:
 <h4>Підключення мотора до Arduino UNO</h4>
 
 * [Steper motor](http://arduino-diy.com/arduino-drayver-shagovogo-dvigatelya-i-dvigatelya-postoyannogo-toka-L298N)
-![Steper motor](https://github.com/Valzavator/Black-Bug/blob/master/pictures/5.jpg)
+
  Для підключення Степер мотора необхідно: <br />
   1) Синій провід мотора з'єднати з гніздом (OUT 1) на драйвері; <br />
   2) Червоний провід мотора з'єднати з гніздом (OUT 2) на драйвері; <br />
@@ -56,7 +56,7 @@ Artifacts:
   5) Гніздо (+5V) на драйвері з піном (5V)(Power) на платі Arduino UNO;<br />
   6) Гніздо (+12V) на драйвері з піном (Vin)(Power) на платі Arduino UNO;<br />
   7) Гніздо (GND) на драйвері з піном (GND)(Digital) на платі Arduino UNO;<br />
- 
+ ![Steper motor](https://github.com/Valzavator/Black-Bug/blob/master/pictures/5.jpg)
  <h4>Підключення лазера до Arduino UNO</h4>
  
  1) З'єднати червоний провід лазера з піном (A4)(Analog) на платі Arduino UNO;
