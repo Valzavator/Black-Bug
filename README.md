@@ -36,7 +36,7 @@ Artifacts:
 3) Лазер (Redline)<br/>
 4) Плата (Arduino UNO)<br/>
 5) Веб камера<br/>
- ![Апаратна частина](https://github.com/Valzavator/Black-Bug/blob/master/pictures/4.jpg)
+![Апаратна частина](https://github.com/Valzavator/Black-Bug/blob/master/pictures/4.jpg)
 
 <h4>Підключення мотора до Arduino UNO</h4>
 
