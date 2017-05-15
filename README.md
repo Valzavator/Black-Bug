@@ -31,4 +31,5 @@
 ### Second Sprint:
  1. [Meeting results](https://docs.google.com/document/d/1M6DtZRIyx79GnB-XEwr8rDi_GVmutUE3aYN6NCFEzQU/edit)
  2. [Burndown chart](https://docs.google.com/spreadsheets/d/1ttTtAEPC3I_B0nDH0Pmi0iFZeREc9R0mYm4dI4_D3n8/edit#gid=0)
- 3. [Demonstration]()
+ 3. [Demonstration](https://docs.google.com/presentation/d/1104nvUqWnwmXt8XBXt5iOy6z2K5ebzEyvRYoFUYVLnY/edit?usp=sharing)
+ 4. [Retrospective](https://docs.google.com/spreadsheets/d/1cNZexZf32fRIZeDvcfuvelYbxX21ZWc3OF92iE9uEN0/edit?usp=sharing)
