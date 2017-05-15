@@ -86,4 +86,5 @@ Artifacts:
   2) Чекаємо доки закінчиться сканування; <br/> 
   3) Зберігаємо 3D зображення; <br/> 
   4) Можемо редактувати його в MeshLab;<br/> 
+  
 ![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/3.jpg)
