@@ -2,13 +2,13 @@
 * * *
 ##### Team members:   
 
-1.Telefus Ilya (Product Owner)   
+1.Telefus Ilya (Product Owner)
 2.Zgurovskiy Yaroslav (ScrumMaster)
-3.Svynarchuk Maksim (Team Lead)   
+3.Svynarchuk Maksim (Team Lead)
 4.Scherbina Vadim (QA)
-5.Horzhyi Igor   
-6.Poyda Andrian   
-7.Schupacovskyi Yehor   
+5.Horzhyi Igor
+6.Poyda Andrian
+7.Schupacovskyi Yehor
 
 ![TeamLogo](https://github.com/Valzavator/Black-Bug/blob/master/pictures/logo000.png)
 
@@ -17,8 +17,7 @@
 ### Project description  
 
 #### Artifacts:   
-* [Trello](https://trello.com/b/F3zNZruQ)    
-<<<<<<< HEAD
+* [Trello](https://trello.com/b/F3zNZruQ)
 
 
 * * *
