@@ -34,7 +34,7 @@
 4) Плата (Arduino UNO)<br/>
 5) Веб камера
 
-![Aparat](https://github.com/Valzavator/Black-Bug/blob/master/pictures/4.jpg)
+![Components](https://github.com/Valzavator/Black-Bug/blob/master/pictures/4.jpg)
 
 <h4>Підключення мотора до Arduino UNO</h4>
 
@@ -74,9 +74,9 @@
   5) В Fabscan вибрати (Camera) і вибрати свою камеру, потім вибрати (SerialPort) і вибрати порт;<br/> 
   6) В налаштуваннях нажати Detect laser і вибрати Fetch frame, налаштувати, щоб центр платформи проходив по жовтій лінії, а синя  лінія збігалася з краєм платформи;<br/>
   
-![Camera](https://github.com/Valzavator/Black-Bug/blob/master/pictures/1.jpg)
+![Camera](https://github.com/Valzavator/Black-Bug/blob/master/pictures/7DrBMTKedAM.jpg)
 
-![Camera](https://github.com/Valzavator/Black-Bug/blob/master/pictures/6.jpg)
+![Camera](https://github.com/Valzavator/Black-Bug/blob/master/pictures/7D1fuSHXWdI.jpg)
  
  <h4>Створення 3D моделі в Fabscan</h4>
   1) Нажимаємо Start Scan; <br/> 
@@ -84,7 +84,8 @@
   3) Зберігаємо 3D зображення; <br/> 
   4) Можемо редактувати його в MeshLab;<br/> 
   
-![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/3.jpg)
+![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/Screenshot%20from%202017-05-16%2018_24_02.png)
+![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/Screenshot%20from%202017-05-16%2018_24_17.png)
 =======
 #### Artifacts:   
 * [Trello](https://trello.com/b/F3zNZruQ)
