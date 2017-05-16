@@ -92,7 +92,6 @@
 #### Artifacts:   
 * [Trello](https://trello.com/b/F3zNZruQ)
 * [Product presentation](http://bit.ly/2lVrU3Q)
-* [Documentation](http://bit.ly/2kQ0Qha)
 * [Backlog](http://bit.ly/2nkHjvf)
 * [Product Promo](https://vimeo.com/217564097)
 
