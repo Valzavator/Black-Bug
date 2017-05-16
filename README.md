@@ -33,7 +33,7 @@
 3) Лазер (Redline);<br/>
 4) Плата (Arduino UNO);<br/>
 5) Веб-камера (Logitech C270);<br/>
-6) ДВП для корпусу(детальні креслення на зображенні нижче);
+6) ДВП для корпусу(детальні креслення на зображенні нижче);<br/>
 ![Frame Scheme](https://github.com/Valzavator/Black-Bug/blob/master/pictures/housingScheme.jpeg)
 
 ![Components](https://github.com/Valzavator/Black-Bug/blob/master/pictures/4.jpg)
