@@ -10,7 +10,7 @@
 6.Poyda Andrian   
 7.Schupacovskyi Yehor   
 
-![TeamLogo](https://github.com/Admiral2303/Black-Bug/blob/master/logo000.png)
+![TeamLogo](https://github.com/Valzavator/Black-Bug/blob/master/pictures/logo000.png)
 
 # 3D Scanner
 * * *
