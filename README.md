@@ -2,22 +2,19 @@
 * * *
 ##### Team members:   
 
-1.Telefus Ilya (Product Owner)
-2.Zgurovskiy Yaroslav (ScrumMaster)
-3.Svynarchuk Maksim (Team Lead)
-4.Scherbina Vadim (QA)
-5.Horzhyi Igor
-6.Poyda Andrian
-7.Schupacovskyi Yehor
+1. Telefus Ilya (Product Owner)
+2. Zgurovskiy Yaroslav (ScrumMaster)
+3. Svynarchuk Maksim (Team Lead)
+4. Scherbina Vadim (QA)
+5. Horzhyi Igor
+6. Poyda Andrian
+7. Schupacovskyi Yehor
 
 ![TeamLogo](https://github.com/Valzavator/Black-Bug/blob/master/pictures/logo000.png)
 
 # 3D Scanner
 * * *
 ### Project description  
-
-#### Artifacts:   
-* [Trello](https://trello.com/b/F3zNZruQ)
 
 
 * * *
@@ -89,6 +86,8 @@
   
 ![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/3.jpg)
 =======
+#### Artifacts:   
+* [Trello](https://trello.com/b/F3zNZruQ)
 * [Product presentation](http://bit.ly/2lVrU3Q)
 * [Documentation](http://bit.ly/2kQ0Qha)
 * [Backlog](http://bit.ly/2nkHjvf)
