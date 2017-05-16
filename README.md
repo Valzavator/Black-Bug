@@ -105,3 +105,7 @@
  2. [Burndown chart](https://docs.google.com/spreadsheets/d/1ttTtAEPC3I_B0nDH0Pmi0iFZeREc9R0mYm4dI4_D3n8/edit#gid=0)
  3. [Demonstration](https://docs.google.com/presentation/d/1104nvUqWnwmXt8XBXt5iOy6z2K5ebzEyvRYoFUYVLnY/edit?usp=sharing)
  4. [Retrospective](https://docs.google.com/spreadsheets/d/1cNZexZf32fRIZeDvcfuvelYbxX21ZWc3OF92iE9uEN0/edit?usp=sharing)
+ 
+ При виникненні непередбачуваних труднощів, будь ласка, напишіть scrum-майстеру команди TAG:
+vk: <a href="https://vk.com/id146075988">Ярослав Згуровський</a>
+<b>mail</b>: zgurovskiyyarik@gmail.com <br/>
