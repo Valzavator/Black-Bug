@@ -32,7 +32,10 @@
 2) Драйвер для мотора (L298N);<br/>
 3) Лазер (Redline);<br/>
 4) Плата (Arduino UNO);<br/>
-5) Веб камера (Logiteck C270);
+5) Веб-камера (Logitech C270);<br/>
+6) ДВП для корпусу(детальні креслення на зображенні нижче);<br/>
+
+![Frame Scheme](https://github.com/Valzavator/Black-Bug/blob/master/pictures/housingScheme.jpeg)
 
 ![Components](https://github.com/Valzavator/Black-Bug/blob/master/pictures/4.jpg)
 
@@ -89,7 +92,7 @@
 ![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/Screenshot%20from%202017-05-16%2018_24_02.png)
 ![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/Screenshot%20from%202017-05-16%2018_24_17.png)
 =======
-#### Artifacts:   
+## Artifacts:   
 * [Trello](https://trello.com/b/F3zNZruQ)
 * [Product presentation](http://bit.ly/2lVrU3Q)
 * [Backlog](http://bit.ly/2nkHjvf)
