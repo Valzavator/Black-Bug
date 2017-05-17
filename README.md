@@ -98,7 +98,9 @@
 * [Trello](https://trello.com/b/F3zNZruQ)
 * [Product presentation](http://bit.ly/2lVrU3Q)
 * [Backlog](http://bit.ly/2nkHjvf)
+* [Teaser](https://vimeo.com/217562134)
 * [Product Promo](https://vimeo.com/217564097)
+* [Capturing 3D model demo](https://vimeo.com/217858066)
 
 ***
 ### First Sprint:
