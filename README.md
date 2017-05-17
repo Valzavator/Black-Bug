@@ -91,6 +91,8 @@
   
 ![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/Screenshot%20from%202017-05-16%2018_24_02.png)
 ![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/Screenshot%20from%202017-05-16%2018_24_17.png)
+![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/cup.jpg)
+![Fabscan](https://github.com/Valzavator/Black-Bug/blob/master/pictures/MashLab.jpg)
 =======
 ## Artifacts:   
 * [Trello](https://trello.com/b/F3zNZruQ)
